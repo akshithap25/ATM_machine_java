@@ -1,2 +1,2 @@
 # ATM_machine_java
-Developed a console-based ATM simulation using Java with features like balance inquiry, withdrawals, deposits, and mini-statements using OOP principles and collections.
+A simple Java-based ATM simulation that allows users to check balance, deposit money, withdraw cash, and view a mini-statement. The project is built using core Java concepts such as classes, interfaces, OOP principles, HashMap, and user input handling. It demonstrates real-time transaction updates, validation (PIN and amount checks), and menu-driven console interaction. This project is ideal for beginners learning Java fundamentals and basic banking system logic.
